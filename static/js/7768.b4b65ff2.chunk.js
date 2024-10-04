@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklbol_logs_dev=self.webpackChunklbol_logs_dev||[]).push([[7768],{7768:e=>{e.exports=JSON.parse('{"name":"","version_number":"1.0.0","website_url":"","description":"","dependencies":["BepInEx-BepInExPack-5.4.2100","TeamNeo-Sideloader-0.5.0"]}')}}]);

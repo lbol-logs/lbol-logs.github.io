@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklbol_logs_dev=self.webpackChunklbol_logs_dev||[]).push([[3064],{3064:e=>{e.exports=JSON.parse('{"HalfDrug":0.5,"LowMaxHp":10,"StartMisfortune":"Zhukeling","LowStageRegen":0.5,"LowUpgradeRate":{"Cards":0.5,"Shop":0.1},"PayForUpgrade":25,"NightMana":"NightMana"}')}}]);
