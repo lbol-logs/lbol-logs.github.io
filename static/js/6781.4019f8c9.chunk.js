@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklbol_logs_dev=self.webpackChunklbol_logs_dev||[]).push([[6781],{6781:e=>{e.exports=JSON.parse('{"Reimu":"Reimu Hakurei","Reimu_short":"Reimu"}')}}]);
