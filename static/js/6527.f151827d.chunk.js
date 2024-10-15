@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklbol_logs_dev=self.webpackChunklbol_logs_dev||[]).push([[6527],{6527:o=>{o.exports=JSON.parse('{"UtsuhoA":"Blazing Star \\"Heatwave\\"","UtsuhoB":"Distant Star \\"Supernova\\"","YoumuModA":"Human Knowledge Sword \\"Turning Angel Cut\\"","YoumuModB":"Konpaku \\"Dharma of Gumonji\\""}')}}]);

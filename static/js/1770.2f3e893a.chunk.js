@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklbol_logs_dev=self.webpackChunklbol_logs_dev||[]).push([[1770],{1770:e=>{e.exports=JSON.parse('{"YoumuModA":"\u4eba\u754c\u5251\u300c\u5929\u5973\u8fd4\u300d","YoumuModB":"\u9b42\u9b44\u300c\u5e7d\u660e\u6c42\u95fb\u6301\u806a\u660e\u4e4b\u6cd5\u300d"}')}}]);

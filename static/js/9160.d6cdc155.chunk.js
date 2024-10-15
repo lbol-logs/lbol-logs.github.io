@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklbol_logs_dev=self.webpackChunklbol_logs_dev||[]).push([[9160],{9160:a=>{a.exports=JSON.parse('{"BlackSun":{"Owner":"Utsuho","Rarity":"Shining","Value1":1,"Mana":"B","BaseMana":"B"},"ControlRod":{"Owner":"Utsuho","Rarity":"Shining","Value1":1,"Mana":"R","BaseMana":"R"}}')}}]);

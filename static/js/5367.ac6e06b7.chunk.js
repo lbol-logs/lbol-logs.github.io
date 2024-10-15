@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklbol_logs_dev=self.webpackChunklbol_logs_dev||[]).push([[5367],{5367:o=>{o.exports=JSON.parse('{"YoumuMod":"\u9b42\u9b44\u5996\u5922","YoumuMod_short":"\u5996\u5922"}')}}]);

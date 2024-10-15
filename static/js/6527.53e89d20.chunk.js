@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklbol_logs_dev=self.webpackChunklbol_logs_dev||[]).push([[6527],{6527:e=>{e.exports=JSON.parse('{"UtsuhoA":"Blazing Star \\"Heatwave\\"","UtsuhoB":"Distant Star \\"Supernova\\""}')}}]);
