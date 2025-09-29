@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://lbol-logs.github.io/static/css/main.bf07f76a.css",
-    "main.js": "https://lbol-logs.github.io/static/js/main.d57ed3df.js",
+    "main.js": "https://lbol-logs.github.io/static/js/main.bf5baab8.js",
     "static/js/6453.1d4afbc2.chunk.js": "https://lbol-logs.github.io/static/js/6453.1d4afbc2.chunk.js",
     "static/js/313.1ceb645f.chunk.js": "https://lbol-logs.github.io/static/js/313.1ceb645f.chunk.js",
     "static/js/7007.2843b236.chunk.js": "https://lbol-logs.github.io/static/js/7007.2843b236.chunk.js",
@@ -23,7 +23,7 @@
     "static/js/1509.23515bfb.chunk.js": "https://lbol-logs.github.io/static/js/1509.23515bfb.chunk.js",
     "static/js/1879.156fe47c.chunk.js": "https://lbol-logs.github.io/static/js/1879.156fe47c.chunk.js",
     "static/js/9293.0ec4474f.chunk.js": "https://lbol-logs.github.io/static/js/9293.0ec4474f.chunk.js",
-    "static/js/2262.6ff3042e.chunk.js": "https://lbol-logs.github.io/static/js/2262.6ff3042e.chunk.js",
+    "static/js/2262.b3b9bdb9.chunk.js": "https://lbol-logs.github.io/static/js/2262.b3b9bdb9.chunk.js",
     "static/js/2252.37be1520.chunk.js": "https://lbol-logs.github.io/static/js/2252.37be1520.chunk.js",
     "static/js/1967.c6bbb0d8.chunk.js": "https://lbol-logs.github.io/static/js/1967.c6bbb0d8.chunk.js",
     "static/js/8048.32a3a621.chunk.js": "https://lbol-logs.github.io/static/js/8048.32a3a621.chunk.js",
@@ -89,11 +89,11 @@
     "static/js/8143.841a1ef4.chunk.js": "https://lbol-logs.github.io/static/js/8143.841a1ef4.chunk.js",
     "index.html": "https://lbol-logs.github.io/index.html",
     "main.bf07f76a.css.map": "https://lbol-logs.github.io/static/css/main.bf07f76a.css.map",
-    "main.d57ed3df.js.map": "https://lbol-logs.github.io/static/js/main.d57ed3df.js.map",
+    "main.bf5baab8.js.map": "https://lbol-logs.github.io/static/js/main.bf5baab8.js.map",
     "6453.1d4afbc2.chunk.js.map": "https://lbol-logs.github.io/static/js/6453.1d4afbc2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf07f76a.css",
-    "static/js/main.d57ed3df.js"
+    "static/js/main.bf5baab8.js"
   ]
 }
