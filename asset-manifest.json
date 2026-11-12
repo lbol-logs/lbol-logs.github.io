@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://lbol-logs.github.io/static/css/main.0ba0dc77.css",
+    "main.css": "https://lbol-logs.github.io/static/css/main.12166d1d.css",
     "main.js": "https://lbol-logs.github.io/static/js/main.7c840e99.js",
     "static/js/6453.1d4afbc2.chunk.js": "https://lbol-logs.github.io/static/js/6453.1d4afbc2.chunk.js",
     "static/js/313.cac9d26e.chunk.js": "https://lbol-logs.github.io/static/js/313.cac9d26e.chunk.js",
@@ -89,12 +89,12 @@
     "static/js/4228.aa7d1d68.chunk.js": "https://lbol-logs.github.io/static/js/4228.aa7d1d68.chunk.js",
     "static/js/8143.841a1ef4.chunk.js": "https://lbol-logs.github.io/static/js/8143.841a1ef4.chunk.js",
     "index.html": "https://lbol-logs.github.io/index.html",
-    "main.0ba0dc77.css.map": "https://lbol-logs.github.io/static/css/main.0ba0dc77.css.map",
+    "main.12166d1d.css.map": "https://lbol-logs.github.io/static/css/main.12166d1d.css.map",
     "main.7c840e99.js.map": "https://lbol-logs.github.io/static/js/main.7c840e99.js.map",
     "6453.1d4afbc2.chunk.js.map": "https://lbol-logs.github.io/static/js/6453.1d4afbc2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ba0dc77.css",
+    "static/css/main.12166d1d.css",
     "static/js/main.7c840e99.js"
   ]
 }
